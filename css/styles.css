@@ -1,0 +1,44 @@
+/* #hello{
+    
+} */
+
+h2{
+    text-align: center;
+}
+
+#CityDisplay{
+    margin: auto;
+    text-transform: capitalize;
+}
+
+h5{
+    color: black !important;
+}
+
+.card-body{
+    background-color: white !important;
+    padding: 0.25rem;
+
+}
+
+.card{
+    margin-top: 5%;
+    border: 1px solid rgba(129, 129, 129, 2.125) !important;
+}
+
+
+.myForm{
+    width: 52em;
+    margin-left: 390px;
+   
+}
+
+.col-md-4{
+    margin-top: 2%;
+    margin-left: 5rem;
+    position: static;
+}
+
+.vis-hidden{
+    visibility: hidden;
+}
